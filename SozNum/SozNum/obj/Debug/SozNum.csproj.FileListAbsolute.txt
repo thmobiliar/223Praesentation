@@ -7,3 +7,6 @@ c:\users\vmadmin\documents\visual studio 2015\Projects\SozNum\SozNum\obj\Debug\S
 c:\users\vmadmin\documents\visual studio 2015\Projects\SozNum\SozNum\obj\Debug\SozNum.csproj.GenerateResource.Cache
 c:\users\vmadmin\documents\visual studio 2015\Projects\SozNum\SozNum\obj\Debug\SozNum.exe
 c:\users\vmadmin\documents\visual studio 2015\Projects\SozNum\SozNum\obj\Debug\SozNum.pdb
+C:\Users\vmadmin\Source\Repos\Vortrag\SozNum\SozNum\bin\Debug\SozNum.exe.config
+C:\Users\vmadmin\Source\Repos\Vortrag\SozNum\SozNum\obj\Debug\SozNum.exe
+C:\Users\vmadmin\Source\Repos\Vortrag\SozNum\SozNum\obj\Debug\SozNum.pdb

@@ -89,7 +89,7 @@
             this.Controls.Add(this.lblABC);
             this.Controls.Add(this.tbInput);
             this.Name = "Form1";
-            this.Text = "AHV-Nummer überprüfen";
+            this.Text = "AHV-Nr";
             this.ResumeLayout(false);
             this.PerformLayout();
 
