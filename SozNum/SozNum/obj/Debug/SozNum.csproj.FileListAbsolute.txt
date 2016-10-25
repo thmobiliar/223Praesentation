@@ -1,0 +1,9 @@
+c:\users\vmadmin\documents\visual studio 2015\Projects\SozNum\SozNum\bin\Debug\SozNum.exe.config
+c:\users\vmadmin\documents\visual studio 2015\Projects\SozNum\SozNum\bin\Debug\SozNum.exe
+c:\users\vmadmin\documents\visual studio 2015\Projects\SozNum\SozNum\bin\Debug\SozNum.pdb
+c:\users\vmadmin\documents\visual studio 2015\Projects\SozNum\SozNum\obj\Debug\SozNum.csprojResolveAssemblyReference.cache
+c:\users\vmadmin\documents\visual studio 2015\Projects\SozNum\SozNum\obj\Debug\SozNum.Form1.resources
+c:\users\vmadmin\documents\visual studio 2015\Projects\SozNum\SozNum\obj\Debug\SozNum.Properties.Resources.resources
+c:\users\vmadmin\documents\visual studio 2015\Projects\SozNum\SozNum\obj\Debug\SozNum.csproj.GenerateResource.Cache
+c:\users\vmadmin\documents\visual studio 2015\Projects\SozNum\SozNum\obj\Debug\SozNum.exe
+c:\users\vmadmin\documents\visual studio 2015\Projects\SozNum\SozNum\obj\Debug\SozNum.pdb
