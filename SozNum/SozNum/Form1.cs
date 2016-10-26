@@ -22,14 +22,14 @@ namespace SozNum
         {
             string cSozNummer = tbInput.Text;
             Regex regex = new Regex(@"^[1-9]{3}\.[1-9]{4}\.[1-9]{4}\.[1-9]{2}$"); 
-            if (regex.IsMatch(cSozNummer))
+            /*if (regex.IsMatch(cSozNummer))
             {
                 lblOutput.Text = "Richtig";
              }
             else
             {
                 lblOutput.Text = "Falsch";
-            }
+            }*/
         }
     }
 }
