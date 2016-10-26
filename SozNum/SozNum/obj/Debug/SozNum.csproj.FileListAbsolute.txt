@@ -13,3 +13,6 @@ C:\Users\vmadmin\Source\Repos\Vortrag\SozNum\SozNum\obj\Debug\SozNum.pdb
 C:\Users\vmadmin\Source\Repos\1234Test\SozNum\SozNum\bin\Debug\SozNum.exe.config
 C:\Users\vmadmin\Source\Repos\1234Test\SozNum\SozNum\obj\Debug\SozNum.exe
 C:\Users\vmadmin\Source\Repos\1234Test\SozNum\SozNum\obj\Debug\SozNum.pdb
+C:\Users\vmadmin\Source\Repos\Demo\SozNum\SozNum\bin\Debug\SozNum.exe.config
+C:\Users\vmadmin\Source\Repos\Demo\SozNum\SozNum\obj\Debug\SozNum.exe
+C:\Users\vmadmin\Source\Repos\Demo\SozNum\SozNum\obj\Debug\SozNum.pdb
